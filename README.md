@@ -1,33 +1,38 @@
-# awesome-list
+# arctiic-list
 
-> A curated list of resources for
-
-[![Buy Me a Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://clicksrv.net/d-)
+> A personal, arbitrarily curated assortment of tech-related, QoL scripts, tools, links, etc.
 
 ## Contents
+- [Scripts](#scripts)
+  - [ADB](#adb)
+  - [AHK](#ahk)
+  - [Batch](#batch)
+  - [PowerShell](#powershell)
+  - [RainMeter](#rainmeter)
+- [Documents](#documents)
+  - [Guides](#guides)
 
-- [Section](#section)
-- [Another Section](#another-section)
+## Scripts
+Various scripts for various purposes.
 
-## Section
+### ADB
 
-About this section. Optional. Keep this short and focus on the list.
+### AHK
 
+### Batch
+
+### PowerShell
+
+### RainMeter
 - [List item](http://example.com)
 - [List item](http://example.com)
 
-## Another Section
+## Documents
 
-### Subsection
+### Guides
 
 - [List item](http://example.com)
 - [List item](http://example.com)
-
-
-## Contribute
-
-Contributions are welcome!
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
